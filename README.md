@@ -2,6 +2,8 @@
 
 *El objetivo de este proyecto es realizar un análisis descriptivo de los datos de una encuesta de satisfacción del cliente para identificar tendencias y patrones que puedan ayudar a mejorar el servicio al cliente. Este análisis se enfoca en calcular medidas de tendencia central y dispersión, así como en crear visualizaciones que permitan una mejor comprensión de los datos.*
 
+[URL DEL PROYECTO](https://deepnote.com/workspace/jonabadd-4915328c-fbd9-421d-b7bb-d7f156cca75e/project/Jona-Badds-Estadistica-Descriptiva-Project-0f586d3d-ee24-41e8-a812-eb8ea96bdd14/notebook/Proyecto_practico_estadistica_descriptiva_v1.ipynb-559bc274c50741aa96f465b166d57d33 "URL DEL PROYECTO")
+
 # Interpretación y Mejora
 
 ### Satisfacción General
